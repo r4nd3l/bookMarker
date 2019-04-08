@@ -2,4 +2,4 @@
 VanillaJs based bookMarker - web browser
 ---
 
-![BookMarker](https://github.com/r4nd3l/bookMarker/blob/master/img/sample.gif)
+![BookMarker](https://github.com/r4nd3l/bookMarker/blob/master/img/bookmarker.png)
